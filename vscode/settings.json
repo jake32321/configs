@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.iconTheme": "vscode-great-icons",
+    "breadcrumbs.enabled": true,
+    "go.goroot": "/usr/local/go",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.userWords": [
+        "Wardialing"
+    ]
+}
